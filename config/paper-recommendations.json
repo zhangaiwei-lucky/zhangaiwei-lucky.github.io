@@ -1,0 +1,18 @@
+{
+  "enabled": true,
+  "endpoint": "",
+  "limit": 4,
+  "cacheMinutes": 30,
+  "daily": {
+    "enabled": true,
+    "limit": 4,
+    "cacheMinutes": 360,
+    "keywords": [
+      "Spatiotemporal Data Mining",
+      "Spatiotemporal Data Generation",
+      "Diffusion Model",
+      "Large Language Model",
+      "AI Agents"
+    ]
+  }
+}

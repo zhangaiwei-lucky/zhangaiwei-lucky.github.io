@@ -1,0 +1,19 @@
+[
+  {
+    "title": "GPU Programming Domain LLM Fine-tuning and Inference Optimization",
+    "image": "assets/projects/gpu-llm.svg",
+    "meta": "LLM",
+    "text": "Built a data pipeline (PDF parsing, semantic chunking, QA generation, rule-based cleaning), applied LoRA SFT to Qwen2.5-3B-Instruct on NVIDIA A100 and added a RAG workflow over GPU technical documents, raising ROUGE-L from 0.2517 to 0.4126. Migrated the model to Moore Threads MTT S4000 with vLLM-MUSA and Triton, reaching ~13.0k tokens/s (+62.4% over the baseline).",
+    "action": "github",
+    "period": "2024.12 – 2025.01"
+  },
+  {
+    "title": "Online Workload Resource Prediction for Data Centers",
+    "image": "assets/projects/workload.png",
+    "meta": "Research Grant",
+    "text": "Led a university Spark Fund key project (completed and rated excellent). Online data-center workloads are latency-sensitive and strongly periodic, yet existing predictors under-use periodicity and are expensive to train. We identify the load period with the autocorrelation function, split the resource series into per-period subsequences and model the same-phase points across periods with LSTM. Across four real traces, it lowers MAPE on all four and cuts time cost by 1.6–4.0× relative to a standard LSTM. My part: period identification, sequence construction and splitting, and assisting LSTM modeling.",
+    "note": "Software copyright (first author, granted 2022.11): Periodicity-based Online Workload Resource Prediction System V1.0 · Invention patent application CN116028214A (second inventor, filed 2022.11, published 2023.04): A Method for Online Service Resource Prediction in Data Centers",
+    "action": "github",
+    "period": "2021.12 – 2022.12"
+  }
+]

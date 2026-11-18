@@ -1,0 +1,33 @@
+{
+  "name": "Aiwei Zhang",
+  "title": "PhD Student",
+  "profileImage": "assets/profile.jpg",
+  "brandLogo": "assets/logo.svg",
+  "descriptions": [
+    {
+      "icon": "sparkles",
+      "text": "Spatiotemporal Data Mining"
+    },
+    {
+      "icon": "openai",
+      "text": "Spatiotemporal Data Generation"
+    },
+    {
+      "icon": "camera",
+      "text": "Skiing · Travel · Photography"
+    }
+  ],
+  "primaryLinks": [],
+  "socialLinks": [
+    {
+      "label": "Email",
+      "icon": "email",
+      "url": "mailto:zhangaiwei25z@ict.ac.cn"
+    },
+    {
+      "label": "ORCID",
+      "icon": "scholar",
+      "url": "https://orcid.org/0009-0005-6799-3910"
+    }
+  ]
+}

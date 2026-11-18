@@ -1,0 +1,49 @@
+[
+  {
+    "id": "flightgen",
+    "image": "assets/publications/2026-flightgen.png",
+    "title": "FlightGen: Controllable Flight Trajectory Generation with Physics-Constrained Diffusion",
+    "authors": [
+      {
+        "text": "Aiwei Zhang",
+        "strong": true
+      },
+      {
+        "text": ", M. Li, D. Yao, Y. Lin, Z. Fan, M. Lei, Y. Liu, S. Ma, and J. Bi"
+      }
+    ],
+    "venue": "KDD '26",
+    "ccf": "CCF A",
+    "venueType": "conference",
+    "tags": [
+      "Spatiotemporal Data Generation",
+      "Diffusion Model",
+      "Trajectory Generation"
+    ],
+    "link": "https://doi.org/10.1145/3770855.3817965",
+    "citation": "A. Zhang, M. Li, D. Yao, Y. Lin, Z. Fan, M. Lei, Y. Liu, S. Ma, and J. Bi, “FlightGen: Controllable Flight Trajectory Generation with Physics-Constrained Diffusion,” in Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD '26), 2026. doi:10.1145/3770855.3817965"
+  },
+  {
+    "id": "hmcl",
+    "image": "assets/publications/2024-hmcl.png",
+    "title": "HMCL: High-order Graph Neural Networks with Multi-view Contrastive Learning for Recommendation",
+    "authors": [
+      {
+        "text": "Aiwei Zhang",
+        "strong": true
+      },
+      {
+        "text": ", B. Li, K. Wang, Y. Yang, X. Zhang, and M. Lei"
+      }
+    ],
+    "venue": "ITQM 2024",
+    "venueType": "conference",
+    "tags": [
+      "Recommendation",
+      "Graph Neural Network",
+      "Contrastive Learning"
+    ],
+    "link": "https://doi.org/10.1016/j.procs.2024.08.182",
+    "citation": "A. Zhang, B. Li, K. Wang, Y. Yang, X. Zhang, and M. Lei, “HMCL: High-order Graph Neural Networks with Multi-view Contrastive Learning for Recommendation,” Procedia Computer Science, vol. 242, pp. 1147–1154, 2024. doi:10.1016/j.procs.2024.08.182"
+  }
+]

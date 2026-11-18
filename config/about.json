@@ -1,0 +1,60 @@
+{
+  "paragraphs": [
+    [
+      {
+        "text": "Hi, I'm "
+      },
+      {
+        "text": "Aiwei Zhang",
+        "strong": true
+      },
+      {
+        "text": ", a PhD student at the "
+      },
+      {
+        "text": "Institute of Computing Technology, Chinese Academy of Sciences",
+        "strong": true
+      },
+      {
+        "text": ", advised by "
+      },
+      {
+        "text": "Jingping Bi",
+        "strong": true
+      },
+      {
+        "text": ". My research focuses on "
+      },
+      {
+        "text": "spatiotemporal data mining and spatiotemporal data generation",
+        "strong": true
+      },
+      {
+        "text": ", building generative models whose outputs are realistic, physically consistent, and controllable."
+      }
+    ],
+    [
+      {
+        "text": "One application is "
+      },
+      {
+        "text": "FlightGen",
+        "strong": true
+      },
+      {
+        "text": " (KDD 2026, co-first author), which generates controllable flight trajectories with physics-constrained diffusion. I'm also drawn to "
+      },
+      {
+        "text": "LLMs, agents, and generative models",
+        "strong": true
+      },
+      {
+        "text": ". I earned my B.E. from Beijing University of Technology in 2025. Beyond research, I enjoy skiing, travel, and photography."
+      }
+    ]
+  ],
+  "quote": {
+    "text": "Luck is just curiosity that kept running experiments until something worked.",
+    "author": "Lucky"
+  }
+}

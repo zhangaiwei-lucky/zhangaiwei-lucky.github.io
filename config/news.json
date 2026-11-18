@@ -1,0 +1,32 @@
+[
+  {
+    "date": "2026.08",
+    "segments": [
+      {
+        "text": "Our paper "
+      },
+      {
+        "text": "FlightGen",
+        "strong": true
+      },
+      {
+        "text": " was published at KDD 2026 (Jeju, Korea)."
+      }
+    ]
+  },
+  {
+    "date": "2025",
+    "segments": [
+      {
+        "text": "Started my PhD at the "
+      },
+      {
+        "text": "Institute of Computing Technology, CAS",
+        "strong": true
+      },
+      {
+        "text": "."
+      }
+    ]
+  }
+]

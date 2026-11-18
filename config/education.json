@@ -1,0 +1,18 @@
+{
+  "enabled": true,
+  "items": [
+    {
+      "institution": "Institute of Computing Technology, Chinese Academy of Sciences · University of the Chinese Academy of Sciences",
+      "degree": "Ph.D.",
+      "field": "Spatiotemporal Data Mining",
+      "period": "2025 – Present",
+      "location": "Beijing, China"
+    },
+    {
+      "institution": "Beijing University of Technology",
+      "degree": "B.E.",
+      "period": "2021 – 2025",
+      "location": "Beijing, China"
+    }
+  ]
+}

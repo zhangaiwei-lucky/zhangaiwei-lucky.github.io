@@ -1,0 +1,29 @@
+{
+  "enabled": true,
+  "items": [
+    {
+      "title": "National Scholarship",
+      "organization": "Ministry of Education of China (undergraduate)",
+      "year": "2024"
+    },
+    {
+      "title": "Xiaomi Scholarship",
+      "year": "2024"
+    },
+    {
+      "title": "National Second Prize",
+      "organization": "The 6th Open Source Innovation Competition",
+      "year": "2023"
+    },
+    {
+      "title": "Honorable Mention",
+      "organization": "Mathematical Contest in Modeling (MCM)",
+      "year": "2023"
+    },
+    {
+      "title": "CCF CSP Certification (33rd)",
+      "organization": "China Computer Federation",
+      "description": "Ranked in the top 6.01% overall."
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "arxiv-recommendations",
+  "main": "arxiv-worker.js",
+  "compatibility_date": "2026-10-01",
+  "vars": {
+    "ALLOWED_ORIGINS": "https://zhangaiwei-lucky.github.io"
+  }
+}
